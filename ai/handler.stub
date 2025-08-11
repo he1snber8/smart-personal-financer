@@ -1,0 +1,4 @@
+function getRecommendations(userId){
+  // Load prompt from ai/recommender.prompt and call AI provider
+  return [{"action":"reduce subscriptions","impact_pct":15},{"action":"cook more","impact_pct":8}];
+}
