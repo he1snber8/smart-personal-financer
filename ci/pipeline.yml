@@ -1,0 +1,7 @@
+steps:
+  - name: Build
+    run: build --stack Project_Backend_2024.DTO.TechStack
+  - name: Test
+    run: test
+  - name: Deploy
+    run: deploy
