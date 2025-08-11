@@ -1,0 +1,1 @@
+version: "3.8"\nservices:\n  backend:\n    image: "smart-personal-financer:latest"\n    environment:\n      - STACK=Project_Backend_2024.DTO.TechStack\n    ports:\n      - "8080:8080"\n
