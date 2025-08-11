@@ -1,0 +1,1 @@
+-- 001_init migration for Project_Backend_2024.DTO.TechStack\nCREATE INDEX idx_exp_user ON expenses(user_id);
