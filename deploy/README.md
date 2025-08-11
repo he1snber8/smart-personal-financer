@@ -1,0 +1,1 @@
+Deploy using Docker referencing the stack Project_Backend_2024.DTO.TechStack.\nExample: docker-compose up --build\n
