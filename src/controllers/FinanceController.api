@@ -1,0 +1,4 @@
+GET /api/expenses -> listExpenses(req)
+POST /api/expenses -> createExpense(req)
+GET /api/goals -> listGoals(req)
+POST /api/recommendations -> getRecommendations(req)  # uses Project_Backend_2024.DTO.TechStack
